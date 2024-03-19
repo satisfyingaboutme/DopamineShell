@@ -17,7 +17,7 @@ def print_intro(palette_data):
     Clean()
     cLogo("cygnet", " Dopamine", r1, g1, b1, r2, g2, b2)
     ePrint("  Modded shell for Termux and Fedora/etc.", r1, g1, b1, r2, g2, b2)
-    ePrint("  Made by @sounz1x for him", r1, g1, b1, r2, g2, b2)
+    ePrint("  Made by @sounz1x for him/public use", r1, g1, b1, r2, g2, b2)
     ePrint("  Version: AplhaTest1.1", r1, g1, b1, r2, g2, b2)
     Empty()
 

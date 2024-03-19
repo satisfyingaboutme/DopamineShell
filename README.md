@@ -8,6 +8,10 @@ pip install art
 pip install rgbprint
 pip install psutil
 ```
+(For other people)
+```
+pip install art && pip install rgbprint && pip install psutil
+```
 
 Clone project into sdcard (Recommended if using Termux), or clone into /home/<usr>/Desktop or /home/<usr>/'Рабочий стол' (If using Fedora, Ubuntu etc.)
 ```

@@ -20,6 +20,6 @@ python3 ./main.py
 ```
 
 After all steps you can just type
-``
+```
 help
-``
+```
